@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value = "FollowMind" ></dbname>
+    <version value = "1" ></version>
+    <lite>
+        <mapping class = "com.hupo.bean.Foods"></mapping>
+        <mapping class = "com.hupo.bean.Wish"></mapping>
+        <mapping class = "com.hupo.bean.Events"></mapping>
+        <mapping class = "com.hupo.bean.Sentences"></mapping>
+    </lite>
+</litepal>
